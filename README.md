@@ -37,7 +37,7 @@ Se você quiser contribuir com este projeto, por favor siga os passos:
 
 ## Licença
 
-Este projeto está licenciado sob a MIT License - veja o arquivo [LICENSE.md](LICENSE.md) para detalhes.
+Este projeto está licenciado sob a MIT License
 
 
 
