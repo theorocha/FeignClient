@@ -4,7 +4,7 @@ Este é um projeto de exemplo que demonstra como consumir uma API externa usando
 
 ## Descrição
 
-Neste projeto, utilizamos o OpenFeign, uma biblioteca que simplifica a criação de clientes REST em Java. Ele nos permite declarar interfaces de serviço e anotá-las para especificar como as solicitações HTTP devem ser feitas. Neste caso, estamos consumindo uma API externa fornecida pela {inserir nome da API}.
+Neste projeto, utilizamos o OpenFeign, uma biblioteca que simplifica a criação de clientes REST em Java. Ele nos permite declarar interfaces de serviço e anotá-las para especificar como as solicitações HTTP devem ser feitas. Neste caso, estamos consumindo uma API externa fornecida pela PunkApi.
 
 ## Pré-requisitos
 
